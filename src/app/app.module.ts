@@ -9,7 +9,7 @@ import { HomePage } from '../pages/home/home';
 
 
 import * as $ from 'jquery'; // For Angular 6
-import { CalendarModule } from "ap-angular2-fullcalendar";
+//import { CalendarModule } from "ap-angular2-fullcalendar";
 import { CalendarComponent } from "ap-angular2-fullcalendar";
 
 
@@ -21,7 +21,7 @@ import { CalendarComponent } from "ap-angular2-fullcalendar";
     HomePage
   ],
   imports: [
-    CalendarModule,
+
     BrowserModule,
     IonicModule.forRoot(MyApp)
   ],
