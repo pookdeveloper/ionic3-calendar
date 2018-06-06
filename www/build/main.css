@@ -1,5 +1,4 @@
-@import url(fullcalendar/fullcalendar.min.css);
-@import url(../../../node_modules/fullcalendar/dist/fullcalendar.min.css);
+@import url(fullcalendar.min.css);
 .ion-ios-add:before {
   content: "\f102";
 }
